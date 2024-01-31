@@ -1,0 +1,6 @@
+Nessário download do Node.js
+Comando para instalação do Json Server: npm i json-server -g
+Versão Json usada para o projeto: 0.17.4
+Comando para baixar a versão usada no projeto: npm install -g json-server@0.17.4
+Comando para a API funcionar: json-server --watch api-artists/artists.json --port 3000
+Comando para a visualização do conteúdo da API (Artistas): json-server --watch api-artists/artists.json
